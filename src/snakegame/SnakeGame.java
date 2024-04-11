@@ -23,4 +23,5 @@ public class SnakeGame extends JFrame{
         new SnakeGame().setVisible(true);//class ka object//setvisible:to create a frame
     }
     
+    
 }
